@@ -1,4 +1,2 @@
-Makefile
-Dockerfile
+Dockerfile*
 .dockerignore
-
